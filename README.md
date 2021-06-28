@@ -1,4 +1,4 @@
-Calculator remake
+Calculator remake (for learning purposes - remember coding)
 ---
 
 Created with *create-react-app*
