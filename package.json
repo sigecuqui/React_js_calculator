@@ -5,9 +5,9 @@
   "homepage": "http://ahfarmer.github.io/calculator",
   "devDependencies": {
     "chai": "^4.2.0",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^3.2.3",
     "prettier": "^1.17.1",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^4.0.3"
   },
   "dependencies": {
     "big.js": "^5.2.2",
